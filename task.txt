@@ -9,3 +9,8 @@ NoSQL databases are document, key-value, graph, or wide-column stores, whereas S
 SQL databases excel in multi-row transactions, while NoSQL excels at unstructured data such as documents and JSON.
 
 
+2. PRIMARY KEY vs CANDIDATE KEY:
+Primary key: A column in a table that uniquely identifies each row. Contain unique and NOT NULL values. Only one primary key is possible in a table. Primary key is used as Foreign key in another table to establish a relationship between tables.
+
+Candidate key: A set of column in a table that uniquely identifies each row. Like primary key, contain unique and NOT NULL values. More than one candidate key is possible in a table.
+
