@@ -1,1 +1,11 @@
 Goggle Form: https://docs.google.com/forms/d/1NE0n4-WWjdBD15jlu4aeMdnpPAwP0XSN1xmt-Bj6g5I/edit
+
+
+1. SQL vs NoSQL
+Relational databases use SQL, while non-relational databases use NoSQL.
+SQL databases have a specified schema and employ structured query language. For unstructured data, NoSQL databases use dynamic schemas.
+SQL databases scale vertically, but NoSQL databases scale horizontally.
+NoSQL databases are document, key-value, graph, or wide-column stores, whereas SQL databases are table-based.
+SQL databases excel in multi-row transactions, while NoSQL excels at unstructured data such as documents and JSON.
+
+
